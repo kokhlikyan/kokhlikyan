@@ -1,5 +1,10 @@
-### Hi there 👋 I'm Norayr
+# Hi there 👋 I'm Norayr
 
+---
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <!--
 **kokhlikyan/kokhlikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
