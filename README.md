@@ -44,10 +44,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-    </td>
-  </tr>
-</table>
+
