@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="http://github-readme-streak-stats.herokuapp.com/?user=Kokhlikyan&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Kokhlikyan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kokhlikyan&layout=compact&theme=vision-friendly-dark" />
